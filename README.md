@@ -2,7 +2,7 @@
 
 ## DEMO
 
-[报告样例](https://chaitin.github.io/xray/assets/report_example.html)
+[报告样例](https://i.hacking8.com/static/testphp.vulnweb.html)
 
 ## 准备工作
 
